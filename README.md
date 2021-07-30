@@ -6,5 +6,5 @@
 - **[T Prático - 1](https://github.com/eduardo-bento/AM2-TP1)**
 - **[T Prático - 2](https://github.com/eduardo-bento/AM2-TP2)**
 - **[T Prático - 3](https://github.com/eduardo-bento/AM2-TP3)**
-# Tec Web (https://github.com/eduardo-bento/tecweb)
-# TAC (https://github.com/eduardo-bento/TAC-Labirinto)
+# [Tec Web](https://github.com/eduardo-bento/tecweb)
+# [TAC](https://github.com/eduardo-bento/TAC-Labirinto)

@@ -5,7 +5,6 @@
 - **[Epoca Normal 2015-2016 ](https://github.com/eduardo-bento/Exame-2015-2016-P-Epoca-N)**
 - **[Epoca Recurso 2015-2016 ](https://github.com/eduardo-bento/Exame-2015-2016-P-Epoca-R-)**
 - **[Epoca Recurso 2017-2018 ](https://github.com/eduardo-bento/Exame-2017-2018-P-Epoca-R)**
-- **[Epoca Recurso 2017-2018 ](https://github.com/eduardo-bento/Exame-2017-2018-P-Epoca-R)**
 
 - **[Base Linke lists](https://github.com/eduardo-bento/Base_Linked_list)**
 - **[Trabalho](https://github.com/eduardo-bento/PROG-Semaforo)**
